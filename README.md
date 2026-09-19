@@ -1,7 +1,7 @@
 # bug-bounty-notes
     # 🐛 bug-bounty-notes by hackermadhan2406
 
-> My daily bug bounty learning journey from Coimbatore 🚀
+> My daily bug bounty learning journey from Trichy 🚀
 
 ### 🔥 What I Learn
 - [x] Recon - Subdomain discovery

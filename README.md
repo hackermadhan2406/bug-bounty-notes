@@ -6,7 +6,7 @@
 ### 🔥 What I Learn
 - [x] Recon - Subdomain discovery
 - [x] XSS Payloads
-- [ ] SQLi
+  -[x] SQLi
 - [ ] IDOR
 - [ ] SSRF
 

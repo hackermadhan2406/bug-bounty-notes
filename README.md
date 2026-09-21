@@ -7,7 +7,7 @@
 - [x] Recon - Subdomain discovery
 - [x] XSS Payloads
 - [x] SQLi
-- [ ] IDOR
+- [x] IDOR
 - [ ] SSRF
 
 ### 🛠️ Tools I Use

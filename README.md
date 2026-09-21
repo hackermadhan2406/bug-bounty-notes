@@ -8,7 +8,7 @@
 - [x] XSS Payloads
 - [x] SQLi
 - [x] IDOR
-- [ ] SSRF
+- [x] SSRF
 
 ### 🛠️ Tools I Use
 - subfinder, httpx, nuclei
